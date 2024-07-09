@@ -1,1 +1,6 @@
 .env
+
+.duaplayer/scrapping-result
+.duaplayer/upload-input
+
+.idea
